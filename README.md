@@ -15,7 +15,9 @@ Save hours of design time and showcase your app beautifully — without ever lea
 
 👉 [Explore all features](#)  
 📄 [Documentation](#)  
-💻 **Available on the Mac App Store** — free to try!
+
+*Available on the Mac App Store*
+(assets/download_mac_app_store.jpeg)](https://apps.apple.com/app/id1234567890)
 
 ---
 
