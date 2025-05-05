@@ -22,10 +22,10 @@ Save hours of design time and showcase your app beautifully — without ever lea
 ### 💬 FAQ
 
 **I have a feature idea!**  
-Amazing — I’d love to hear it! Please [open a feature request]([https://github.com/Appventurer/PreviewPro-Feedback/blob/main/.github/ISSUE_TEMPLATE/feature_request.md]).
+Amazing — I’d love to hear it! Please [open a feature request](https://github.com/Appventurer/PreviewPro-Feedback/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
 
 **I found a bug 🐛**  
-Oh no! But you're in the right place — please [open a bug report]([https://github.com/Appventurer/PreviewPro-Feedback/blob/main/.github/ISSUE_TEMPLATE/bug_report.md]), and I’ll jump on it.
+Oh no! But you're in the right place — please [open a bug report](https://github.com/Appventurer/PreviewPro-Feedback/blob/main/.github/ISSUE_TEMPLATE/bug_report.md), and I’ll jump on it.
 
 **How do I follow updates?**  
 Follow [@PreviewProApp on Instagram](https://www.instagram.com/appventurer_app) for progress updates, sneak peeks, and release notes.
