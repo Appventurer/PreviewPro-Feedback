@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: enhancements
-assignees: appventurer
+title: 'Feature Request:'
+labels: enhancement
+assignees: sebastianottow
 
 ---
 
