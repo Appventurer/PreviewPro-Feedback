@@ -1,2 +1,2 @@
-# PreviewPro-Feedback
+# PreviewPro: Your Ultimate Screenshot Generator
 
